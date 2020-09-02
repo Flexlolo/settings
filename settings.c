@@ -71,9 +71,6 @@ void help()
 	printf("  settings set <name> <value>\n");
 	printf("  settings toggle <name> [<value>...]\n\n");
 
-	printf("Options:\n");
-	printf("  -s, --session     Use temporary storage\n\n");
-
 	printf("File-based system settings\n");
 }
 
